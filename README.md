@@ -1,21 +1,7 @@
 # Chirex.1.0
-> Sistem Pakar Diagnosa Penyakit Pada Ayam Menggunakan Metode Certainty Factor Berbasis Website Responsive.
+> Sistem Pakar Diagnosa Penyakit Hepatitis Menggunakan Metode Certainty Factor Berbasis Website Responsive.
 >
 
-
-## Berikut tampilan sistem yang di buat.
-
-* Home
-
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%201.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%202.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%203.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Home%205.png)
-
-* Admin
-
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Admin%201.png)
-![alt text](https://github.com/januriawan/Chirex.1.0/blob/master/Admin%202.png)
 
 ## Configure
 
@@ -124,10 +110,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
     * <b>Update</b> (Karena banyak yang meminta via Email, Sosmed dll. Mohon maaf karena keterbatasan waktu saya tidak bisa membalas, satu persatu
     untuk itu silakan <b>download</b> di [Link Ini](https://www.scribd.com/document/431280343/Dokumentasi-Sistem-Pakar-Ayam-Skripsi)
  
-## Donation
-
-* Bagi yang ingin <b>berdonasi</b> untuk pengembangan sistem yang lain, boleh kirim ke saweria saya 
-   * Saweria.co : [Donasi Sekarang](https://saweria.co/januriawan)
-   * Siapapun, berapapun, saya ucapkan terimakasih sebanyak-banyaknya.
 
 
